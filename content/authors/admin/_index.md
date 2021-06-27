@@ -69,6 +69,6 @@ highlight_name: false
 ---
 
 I am a PhD candidate at the Institute of Particle Physics Phenomenology at Durham University and I am carrying out the second half of my PhD work as a Temporary Research Fellow at the University of Turin. 
-Previously I obtained a Masters with Merit in Quantum Fields and Fundamental Forces at Imeprial College in London. I have lived and worked in several different cities in Italy and the UK. PROVAAAA!!!
+Previously I obtained a Masters with Merit in Quantum Fields and Fundamental Forces at Imeprial College in London. I have lived and worked in several different cities in Italy and the UK. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
