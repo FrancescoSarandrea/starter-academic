@@ -43,7 +43,7 @@ experience:
     location: England
     date_start: '2019-01'
     date_end: ''
-    description: Working.
+    description:Working.
  
 design:
   columns: '2'
