@@ -44,7 +44,7 @@ experience:
     location: England
     date_start: '2019-01'
     date_end: ''
-    description: Brief description
+    description: Working as a tutor at Durham University in a team that provides help in mathematics and statistics to undergraduates of all departments.
  
 
 design:
