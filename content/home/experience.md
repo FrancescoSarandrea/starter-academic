@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
    
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Maths and Stats Lab Tutor
+    company: Durham University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: This is just to check if I can actually push changes to the section.        
+    location: England
+    date_start: '2019-01'
+    date_end: ''
+    description: Working as a tutor at Durham University in a team that provides help in mathe    matics and statistics to undergraduates of all departments.        
  
 design:
   columns: '2'
