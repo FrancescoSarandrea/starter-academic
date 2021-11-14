@@ -30,7 +30,6 @@ experience:
     date_start: '2019-01'
     date_end: ''
     description: |2-
-        Working as a tutor at Durham University in a team that provides help in mathematics
         
    
 design:
