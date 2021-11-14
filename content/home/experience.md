@@ -36,7 +36,6 @@ experience:
         * Modelling
         * Deploying
         
-experience:
   - title: Maths and Stats Lab Tutor
     company: Durham University 
     company_url: ''
