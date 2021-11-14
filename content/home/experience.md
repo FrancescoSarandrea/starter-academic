@@ -35,15 +35,21 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
-  - title: Maths and Stats Lab Tutor
-    company: Durham University 
+   
+  - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: England
-    date_start: '2019-01'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
-    description: whatever
-design:
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+ design:
   columns: '2'
 ---
