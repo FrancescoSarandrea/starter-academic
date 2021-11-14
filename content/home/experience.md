@@ -21,21 +21,19 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Maths and Stats Lab Tutor
-    company: Durham University
+ - title: Maths and Stats Lab Tutor
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: England
-    date_start: '2019-01'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Analysing
-        * Analysing
-        * Analysing
-   
+        * Modelling
+        * Deploying  
 design:
   columns: '2'
 ---
