@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: England
-    date_start: '2019-01'
+    date_start: '2019-01-05'
     date_end: ''
     description: |2-
         Responsibilities include:
