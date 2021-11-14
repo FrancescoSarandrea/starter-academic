@@ -43,7 +43,7 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: This is just to check if I can actually push changes to the section.
 
 design:
   columns: '2'
