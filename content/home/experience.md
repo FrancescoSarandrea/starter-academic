@@ -36,7 +36,16 @@ experience:
         * Modelling
         * Deploying
         
-
+experience:
+  - title: Maths and Stats Lab Tutor
+    company: Durham University 
+    company_url: ''
+    company_logo: org-gc
+    location: England
+    date_start: '2019-01'
+    date_end: ''
+    description: Brief description
+ 
 
 design:
   columns: '2'
