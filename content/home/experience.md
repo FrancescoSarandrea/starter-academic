@@ -32,6 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Analysing
+        * Analysing
+        * Analysing
    
 design:
   columns: '2'
