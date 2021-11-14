@@ -39,7 +39,7 @@ experience:
   - title: Maths and Stats Lab Tutor
     company: Durham University 
     company_url: ''
-    company_logo: 
+    company_logo: '' 
     location: England
     date_start: '2019-01'
     date_end: ''
