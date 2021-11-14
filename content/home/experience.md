@@ -61,7 +61,7 @@ date_format: Jan 2006
 experience:
   - title: CEO
   - title: Maths and Stats Lab Tutor
-    company: GenCoin
+    company: England
     company_url: ''
     company_logo: org-gc
     location: California
