@@ -26,7 +26,7 @@ experience:
     company: England
     company_url: ''
     company_logo: org-gc
-    location: England
+    location: California
     date_start: '2019-01'
     date_end: ''
     description: |2-
