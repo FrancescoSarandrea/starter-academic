@@ -36,6 +36,6 @@ experience:
         * Modelling
         * Deploying
    
-  design:
+design:
   columns: '2'
 ---
