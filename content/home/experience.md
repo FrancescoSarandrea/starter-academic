@@ -36,6 +36,7 @@ experience:
         * Modelling
         * Deploying
    
+experience:
   - title: CEO
     company: GenCoin
     company_url: ''
