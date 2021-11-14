@@ -29,7 +29,7 @@ experience:
     location: England
     date_start: '2019-01'
     date_end: ''
-    description: |2-
+    description: Anything.
         
    
 design:
