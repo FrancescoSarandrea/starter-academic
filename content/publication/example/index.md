@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Finite Fields For Di-Photon Amplitudes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -27,11 +27,10 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
-
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The talk presents finite-fields reconstruction methods and discusses how these are used in the computation of analytical formulae for one-loop QCD scattering amplitudes. The discussion focuses on di-photon + jets amplitudes, highlighting the advantages of these techniques and the current bottlenecks arising at high multiplicities.
 
 # Summary. An optional shortened abstract.
-summary: Here are listed the talks and presentations I have given on my research during my PhD studies.
+summary: Here I present a talk I gave at the Young Theorists Forum at Durham University in 2020.
 
 tags: []
 
