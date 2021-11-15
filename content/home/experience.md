@@ -26,7 +26,7 @@ experience:
   - title: Teaching Assistant in Theoretical Physics
     company: Durham University 
     company_url: ''
-    company_logo: Durham-University
+    company_logo: Durham-University-2
     location: England
     date_start: '2019-10-05'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Maths and Stats Lab Tutor
     company: Durham University 
     company_url: ''
-    company_logo: org-gc
+    company_logo: Durham_University-2
     location: England
     date_start: '2019-01-05'
     date_end: ''
@@ -47,7 +47,7 @@ experience:
   - title: Demonstrator at Durham Open Days and School Festivals
     company: Celebrate Science Durham 
     company_url: ''
-    company_logo: org-gc
+    company_logo: Durham-University-2
     location: England
     date_start: '2019-01-05'
     date_end: ''
