@@ -30,7 +30,7 @@ experience:
     date_start: '2019-01-05'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Working as a tutor of Mathematics and Statistics 
 
 
 design:
