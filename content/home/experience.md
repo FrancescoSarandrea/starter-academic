@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Teaching Assistant in Theoretical Physics
+  - title: Teaching Assistant in Theoretical Physics
     company: Durham University 
     company_url: ''
     company_logo: org-gc
