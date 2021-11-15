@@ -32,9 +32,6 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Analysing
-        * Modelling
-        * Deploying       
 
 design:
   columns: '2'
