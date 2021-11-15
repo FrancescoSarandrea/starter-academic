@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+- title: Teaching Assistant in Theoretical Physics
+    company: Durham University 
+    company_url: ''
+    company_logo: org-gc
+    location: England
+    date_start: '2019-10-05'
+    date_end: ''
+    description: |2-
+        Working as a teaching assistant in a second year undergraduate course in theoretical p        hysics, directing weekly workshops to help students solve problems and go over lecture        s' material.
+
+
   - title: Maths and Stats Lab Tutor
     company: Durham University 
     company_url: ''
@@ -37,11 +49,10 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: England
-    date_start: '2019-10-05'
+    date_start: '2019-01-05'
     date_end: ''
     description: |2-
-        Worked as a demonstrator in numerous science fairs and festivals, doing science outrea        ch for kids and young adults of ages ranging from 8 to 18 years old. Some of the event        s include Celebrate Science, School Science Festival (both held in Durham City) and nu        merous open days for the university’s perspective students.
-
+        Worked as a demonstrator in numerous science fairs and festivals, doing science outrea        ch for kids and young adults of ages ranging from 8 to 18 years old.
 
 
 design:
