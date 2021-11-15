@@ -30,7 +30,7 @@ experience:
     date_start: '2019-01-05'
     date_end: ''
     description: |2-
-        Working as a tutor of Mathematics and Statistics 
+        Working as a tutor at Durham University in a team that provides help in mathematics an        d statistics to undergraduates of all departments.
 
 
 design:
