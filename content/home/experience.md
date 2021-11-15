@@ -26,7 +26,7 @@ experience:
   - title: Teaching Assistant in Theoretical Physics
     company: Durham University 
     company_url: ''
-    company_logo: org-gc
+    company_logo: Durham-University
     location: England
     date_start: '2019-10-05'
     date_end: ''
