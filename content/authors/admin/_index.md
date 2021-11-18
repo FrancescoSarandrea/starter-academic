@@ -43,8 +43,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-#  link: fsarandrea94@gmail.com
-  link: '/#contact'
+  link: 'fsarandrea94@gmail.com'
+#  link: '/#contact'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
