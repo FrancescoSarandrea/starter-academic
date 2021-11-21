@@ -21,11 +21,11 @@ feature:
   icon_pack: fas
   name: Physics
 - description: 
-  icon: claptop-code
+  icon: laptop-code
   icon_pack: fas
   name: Scientific Programming
 - description: 
-  icon: theatre-masks
+  icon: theater-masks
   icon_pack: fas
   name: Acting
 
